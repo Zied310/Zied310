@@ -21,7 +21,7 @@
  </div>
 
 <div align="center"> 
-  <a href="mailto:ziedzhiri310@gmail.com">
+  <a href="mailto:ziedzhiri@yahoo.fr">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yahoo%21&color=6001D2&logo=Yahoo%21&logoColor=FFFFFF&label="/>
   </a>
   <a href="https://www.linkedin.com/in/zied-zhiri-2a2545201" target="_blank">

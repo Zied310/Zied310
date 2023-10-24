@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **a Gym website**
  
- 🌱 I’m currently learning **Symfony, Docker, React Native Expo**
+ 🌱 I’m currently learning **Symfony, Docker**
 
  💬 Ask me about **Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
 
@@ -32,5 +32,25 @@
   </a>
 </div> -->
 
- <hr/>
+<hr/>
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,angular,bootstrap,html,css,vscode,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,postgres,c,java,python" /><br>
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zied310/Zied310/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
  

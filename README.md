@@ -39,7 +39,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,unity,github,docker" /><br>
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,postgres,c#,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,postgres,cs,java,python" /><br>
 </div>
 
 <br/>

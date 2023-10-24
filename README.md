@@ -59,10 +59,9 @@
 <br>
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=Zied310&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <!-- <img width=390 src="https://github-readme-stats-zied310s-projects.vercel.app/api?username=Zied310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" /> -->
-  [![Zied's GitHub stats](https://github-readme-stats-zied310s-projects.vercel.app/api?username=Zied310)](https://github.com/anuraghazra/github-readme-stats)
+  <img width=390 src="https://github-readme-stats-zied310s-projects.vercel.app/api?username=zied310&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-zied310s-projects.vercel.app/api/top-langs/?username=Zied310&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
+  <img width=325 align="center" src="https://github-readme-stats-zied310s-projects.vercel.app/api/top-langs/?username=zied310&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
 </div>
 
 <br/><br/>

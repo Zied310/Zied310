@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Symfony, Docker**
 
- 💬 Ask me about **Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
+ 💬 Ask me about **Linux, Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
 
  ⚡ Fun fact **As of 2021, the Linux kernel contained approximately 25 million lines of code.**
  

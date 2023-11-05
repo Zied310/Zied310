@@ -16,7 +16,6 @@
 
 <div align="center">
   <img width=390 src="https://github-readme-stats-zied310s-projects.vercel.app/api?username=Zied310&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height=192px />
-  <br/>
   <img title=Zieds Top Languages alt="Zieds Top Languages" src="https://github-readme-stats-zied310s-projects.vercel.app/api/top-langs/?username=Zied310&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px"/>
 </div>
 

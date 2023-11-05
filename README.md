@@ -1,18 +1,32 @@
+[![An image of @zied310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zied310)](https://holopin.io/@zied310)
+
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zied310.Zied310" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zied+Zhiri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F75C7E&&lines=01011010+01101001+01100101+01100100+00100000+01011010+01101000+01101001+01110010+01101001;Zied+Zhiri" />
 </h1>
 
-<h3 align="center">A passionate software developer from Tunisia <sub>TN</sub></h3>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F75C7E&&lines=Passionate+software+developper;Linux+enthusiast;Always+learning+new+things" />
+</h3>
+
+
+<br/>
+
+<div align=center>
+  <img width=390 src="https://github-readme-stats-zied310s-projects.vercel.app/api?username=Zied310&show_icons=true&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E" height="192px />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-zied310s-projects.vercel.app/api/top-langs/?username=Zied310&hide=HTML,css&langs_count=8&layout=compact&theme=react&hide_border=true&text_color=21ffe1&bg_color=0d1117&title_color=F75C7E&icon_color=F8D866" height="192px" />
+</div>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a Gym website**
+ 🔭 Currently working on **a Gym website**
  
- 🌱 I’m currently learning **Symfony, Docker**
+ 🌱 Currently learning **Symfony, Docker**
 
  💬 Ask me about **Linux, Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
 
@@ -55,15 +69,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=Zied310&count_private=true&theme=highcontrast&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-zied310s-projects.vercel.app/api?username=Zied310&show_icons=true&theme=highcontrast&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-zied310s-projects.vercel.app/api/top-langs/?username=Zied310&hide=HTML,css&langs_count=8&layout=compact&theme=highcontrast&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats"/>
-</div>
+
 
 <br/><br/>
-<hr/>
- 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
+</p>

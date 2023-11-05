@@ -4,7 +4,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zied310.Zied310" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=2000&height=70&duration=4000&color=F75C7E&&lines=01011010+01101001+01100101+01100100+00100000+01011010+01101000+01101001+01110010+01101001;Zied+Zhiri" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=2000&height=70&duration=4000&color=F75C7E&&lines=Hi+👋;I'm+Zied+Zhiri" />
 </h1>
 
 <h3 align="center">

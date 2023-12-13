@@ -8,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=F75C7E&&lines=Passionate+software+developper;Linux+enthusiast;Always+learning+new+things" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=F75C7E&&lines=Passionate+software+developer;Linux+enthusiast;Always+learning+new+things" />
 </h3>
 
 
@@ -25,7 +25,7 @@
  
  🔭 Currently working on **a Gym website**
  
- 🌱 Currently learning **Symfony, Docker**
+ 🌱 Currently learning **Flutter, Docker**
 
  💬 Ask me about **Linux, Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
 

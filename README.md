@@ -23,7 +23,7 @@
 
 <div align="center">
  
- 🔭 Currently working on **a Gym website**
+ 🔭 Currently working on **a Reseller App**
  
  🌱 Currently learning **Flutter, Docker**
 
@@ -50,7 +50,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,unity,github,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,unity,flutter,github,docker" /><br>
     <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,git" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,postgres,cs,java,python" /><br>
 </div>

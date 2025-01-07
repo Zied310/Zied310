@@ -50,9 +50,12 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,unity,flutter,github,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,bootstrap,html,css,vscode,git" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,firebase,postgres,cs,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio,angular" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap" /><br>
+    <img src="https://skillicons.dev/icons?i=linux,unity,cs,java,python" /><br>
+    <img src="https://skillicons.dev/icons?i=spring,nestjs,firebase,postgres,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=docker,github,vscode,idea,postman" /><br>
+    
 </div>
 
 <br/>

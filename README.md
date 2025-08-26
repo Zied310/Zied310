@@ -21,18 +21,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 Currently working on **a Reseller App**
- 
- 🌱 Currently learning **Flutter, Docker**
-
- 💬 Ask me about **Linux, Angular, Node.js, Firebase... or anything [here](https://github.com/Zied310/Zied310/issues)**
-
- ⚡ Fun fact **As of 2021, the Linux kernel contained approximately 25 million lines of code.**
- 
- </div>
-
 <div align="center"> 
   <a href="https://mailto:ziedzhiri@yahoo.fr">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yahoo%21&color=6001D2&logo=Yahoo%21&logoColor=FFFFFF&label="/>
@@ -48,9 +36,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap" /><br>
-    <img src="https://skillicons.dev/icons?i=linux,unity,cs,java,python" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,nestjs,firebase,postgres,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=nestjs,firebase,mysql,mongodb,linux" /><br>
     <img src="https://skillicons.dev/icons?i=docker,github,vscode,idea,postman" /><br>
     
 </div>

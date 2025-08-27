@@ -22,17 +22,18 @@
 
 </br>
 
-<img align="right" alt="coding-gif" width="400" height="300" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
+<img align="right" alt="coding-gif" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
 
  <h3 align="left">💫 About Me 💫</h3>
 
-<h4> 
-🌱 Currently completing my engineering degree, expected graduation in 2026</br>
-🔭 I worked on E-commerce, LegalTech and FinTech apps </br>
-💬 Experienced in Flutter </br>
-⚡ Interest in AI/ML, Linux, DevOps.</br>
-✨ Building applications that not only perform flawlessly but also resonate with users on a deeper level.</h4> <div align="left">
 
+🌱 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&duration=1&pause=1000&width=1000&height=100&lines=Currently+completing+my+engineering+degree%2C+expected+graduation+in+2026" alt="Typing SVG" /></br>
+🔭 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&duration=1&pause=1000&width=1000&height=100&lines=I+worked+on+E-commerce%2C+LegalTech+and+FinTech+apps" alt="Typing SVG" /> </br>
+💬 <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&duration=1&pause=1000&width=1000&height=100&lines=Experienced+in+Flutter+%26+Kotlin" alt="Typing SVG" /> </br>
+⚡ <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=24&duration=1&pause=1000&width=1000&height=100&lines=Interest+in+AI%2FML%2C+Linux%2C+DevOps." alt="Typing SVG" /></br>
+✨ <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=26&duration=1&pause=1000&multiline=true&width=1000&height=100&lines=Building+applications+that+not+only+perform+flawlessly++" alt="Typing SVG" /><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=26&duration=1&pause=1000&multiline=true&width=1000&height=100&lines=but+also+resonate+with+users+on+a+deeper+level." alt="Typing SVG" /> <div align="left">
+
+<br/>
 <br/>
 <br/>
 <br/>

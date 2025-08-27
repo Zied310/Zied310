@@ -85,14 +85,8 @@
 </table><div align="left">
 
 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+<br clear="all" />
+ 
 <hr/>
 <h2 align="center"> 🛡️ Badges 🛡️ </h2>
 

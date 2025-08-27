@@ -32,14 +32,18 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=dart,kotlin,flutter,androidstudio,angular" /><br>
-    <img src="https://skillicons.dev/icons?i=nestjs,firebase,mysql,mongodb,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=docker,github,vscode,idea,postman" /><br>
-    
-</div>
+### **Mobile Development**
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" /><br>
+### **Web Development**
+<img src="https://skillicons.dev/icons?i=angular,html,css,javascript,typescript,bootstrap" /><br>
+### **Backend Development & Databases**
+<img src="https://skillicons.dev/icons?i=nestjs,firebase,mysql,mongodb,linux" /><br>
+### **Version Control & CI/CD**
+<img src="https://skillicons.dev/icons?i=git,github" /><br>
+### **IDEs & Development Tools**
+<img src="https://skillicons.dev/icons?i=vscode,idea,postman" /><br>
 
 <br/>
 <hr/>

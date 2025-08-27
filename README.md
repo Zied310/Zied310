@@ -75,10 +75,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <h3>IDEs & Development Tools</h3>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,neovim,postman" />
-    </td>
+    <h3>IDEs & Development Tools</h3>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,neovim,postman" />
   </tr>
 </table>
 

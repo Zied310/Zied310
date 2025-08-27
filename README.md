@@ -26,12 +26,15 @@
 <img align="right" alt="coding-gif" width="200" height="200" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
 
 <div align="left">🌱 Currently completing my engineering degree, expected graduation in 2026</br>
+  <br/>
 🔭 I worked on E-commerce, LegalTech and FinTech apps </br>
+  <br/>
 💬 Experienced in Flutter </br>
+  <br/>
 ⚡ Interest in AI/ML, Linux, DevOps.</br>
+  <br/>
 ✨ Building applications that not only perform flawlessly but also resonate with users on a deeper level.</h4> </div>
 
-<br/>
 <br/>
 <br/>
 <br/>

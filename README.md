@@ -21,12 +21,6 @@
 
 <br/>
 
-<div align="center"> 
-  <a href="https://zied-zhiri-portfolio.vercel.app" target"_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>

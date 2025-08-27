@@ -99,5 +99,13 @@
 </div>
 
 <br>
+<hr/>
+
+<h2 align="center">🌐 Socials 🌐</h2>
+<div align="center">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
+  <img src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png">
+</div>
 
 <img align="center" alt="powerlines" width="1360" height="400" src="https://github.com/Zied310/Zied310/blob/main/wires.gif">

@@ -93,11 +93,11 @@
 <hr/>
 <h2 align="center">🌐 Socials 🌐</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/zied-zhiri-2a2545201/"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png"></a>
+  <a href="https://www.linkedin.com/in/zied-zhiri-2a2545201/" target="_blank"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/zied.zhiri.2025/"><img height="80" width="80" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png"></a>
+  <a href="https://www.facebook.com/zied.zhiri.2025/" target="_blank"><img height="80" width="80" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/mirai03102001/"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png"></a>
+  <a href="https://www.instagram.com/mirai03102001/" target="_blank"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png"></a>
 </div>
 <br/>
 <img align="center" alt="about-cropped" width="1600" height="600" src="https://github.com/Zied310/Zied310/blob/main/banner-cropped.gif">

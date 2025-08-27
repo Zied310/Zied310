@@ -100,4 +100,4 @@
 
 <br>
 
-<img align="center" alt="powerlines" height="400" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
+<img align="center" alt="powerlines" height="400" src="https://github.com/Zied310/Zied310/blob/main/wires.gif">

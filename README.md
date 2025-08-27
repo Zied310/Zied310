@@ -89,15 +89,6 @@
 
 [![An image of @zied310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zied310)](https://holopin.io/@zied310)
 
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zied310/Zied310/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <br>
 <hr/>
 <h2 align="center">🌐 Socials 🌐</h2>
@@ -107,6 +98,15 @@
   <img height="100" width="100" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png">
   &nbsp;&nbsp;&nbsp;
   <img height="100" width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png">
+</div>
+<img align="center" alt="about-cropped" width="1600" height="600" src="https://github.com/Zied310/Zied310/blob/main/banner-cropped.gif">
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Zied310/Zied310/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
 <img align="center" alt="powerlines" width="1360" height="400" src="https://github.com/Zied310/Zied310/blob/main/wires.gif">

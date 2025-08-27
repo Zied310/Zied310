@@ -93,14 +93,17 @@
 <hr/>
 <h2 align="center">🌐 Socials 🌐</h2>
 <div align="center">
-  <img height="100" width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
+  <a href="https://www.linkedin.com/in/zied-zhiri-2a2545201/"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <img height="100" width="100" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png">
+  <a href="https://www.facebook.com/zied.zhiri.2025/"><img height="80" width="80" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png"></a>
   &nbsp;&nbsp;&nbsp;
-  <img height="100" width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png">
+  <a href="https://www.instagram.com/mirai03102001/"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png"></a>
 </div>
+<br/>
+<br/>
 <img align="center" alt="about-cropped" width="1600" height="600" src="https://github.com/Zied310/Zied310/blob/main/banner-cropped.gif">
-
+<br/>
+<br/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>

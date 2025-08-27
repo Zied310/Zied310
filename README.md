@@ -43,7 +43,7 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
-<img align="right" alt="about-cropped" width="300" src="https://github.com/Zied310/Zied310/blob/main/about-cropped.gif">
+<img align="right" alt="about-cropped" src="https://github.com/Zied310/Zied310/blob/main/about-cropped.gif">
 
 <table border="1" bordercolor="#B4B4B4" align="left">
   <tr>

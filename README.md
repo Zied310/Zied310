@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=36&duration=2000&pause=1000&color=B4B4B4&center=true&width=600&height=100&lines=Mobile+Software+Engineer;Linux+%26+AI+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=36&duration=2000&pause=1000&color=B4B4B4&center=true&width=600&height=100&lines=Mobile+Software+Engineer;Linux+%26+AI+Enthusiast;Always+learning+new+things;%E3%83%A2%E3%83%90%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;Linux+%E3%81%A8+AI+%E3%81%AE%E6%84%9B%E5%A5%BD%E8%80%85;%E5%B8%B8%E3%81%AB%E6%96%B0%E3%81%97%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E5%AD%A6%E3%82%93%E3%81%A7%E3%81%84%E3%81%BE%E3%81%99%E3%80%82" alt="Typing SVG" />
 </h3>
 
 

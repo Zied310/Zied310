@@ -43,7 +43,7 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<table border="1" bordercolor="#B4B4B4" align="center">
+<table border="1" bordercolor="#B4B4B4" align="left">
   <tr>
     <td>
       <h5>Mobile Development</h5>

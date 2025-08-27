@@ -80,7 +80,7 @@
     </td>
   </tr>
 </table><div align="left">
-<img align="center" alt="about-cropped" width="auto" height="80%" src="https://github.com/Zied310/Zied310/blob/main/about-crop.gif">
+<img align="center" alt="about-cropped" width="auto" height="600" src="https://github.com/Zied310/Zied310/blob/main/about-crop.gif">
 
 <br clear="all" />
  
@@ -100,6 +100,4 @@
 
 <br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F75C7E&height=100&section=footer"/>
-</p>
+<img align="center" alt="powerlines" height="400" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">

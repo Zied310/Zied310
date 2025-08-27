@@ -40,7 +40,7 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,html,css,javascript,typescript,bootstrap" />
 <h3>Backend Development & Databases</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
-<h3>Version Control & CI/CD</h3>
+<h3>Version Control</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
 <h3>IDEs & Development Tools</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,postman" />

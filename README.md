@@ -43,34 +43,34 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<table border="1" bordercolor="#B4B4B4">
+<table border="1" bordercolor="#B4B4B4" align="center">
   <tr>
     <td>
-      <h3>Mobile Development</h3>
+      <h5>Mobile Development</h5>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" />
     </td>
     <td>
-      <h3>Web Development</h3>
+      <h5>Web Development</h5>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,html,css,javascript,typescript,bootstrap" />
     </td>
   </tr>
   <tr>
     <td>
-      <h3>Backend Development & Databases</h3>
+      <h5>Backend Development & Databases</h5>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
     </td>
     <td>
-      <h3>Version Control</h3>
+      <h5>Version Control</h5>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
     </td>
   </tr>
   <tr>
     <td>
-      <h3>Deployment</h3>
+      <h5>Deployment</h5>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,googleplayconsole" />
     </td>
     <td>
-      <h3>Programming Languages</h3>
+      <h5>Programming Languages</h5>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,bash,c" />
     </td>
   </tr>

@@ -103,9 +103,9 @@
 <h2 align="center">🌐 Socials 🌐</h2>
 <div align="center">
   <img height="100" width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linkedin-app-icon.png">
-  <br><br>
+  &nbsp;&nbsp;&nbsp;
   <img height="100" width="100" src="http://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/facebook-round-color-icon.png">
-  <br><br>
+  &nbsp;&nbsp;&nbsp;
   <img height="100" width="100" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png">
 </div>
 

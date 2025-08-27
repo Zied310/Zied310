@@ -7,11 +7,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zied310.Zied310" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=40&duration=2000&pause=1000&color=B4B4B4&center=true&width=600&height=100&lines=Hi+%F0%9F%91%8B;I'm+Zied+Zhiri;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B;%E3%82%BA%E3%82%A3%E3%82%A8%E3%83%89+%E3%82%BA%E3%82%A3%E3%83%92%E3%83%AA%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=40&duration=2000&pause=1000&color=B4B4B4&center=true&width=600&height=100&lines=Hi+%F0%9F%91%8B;I'm+Zied+Zhiri;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+%F0%9F%91%8B;%E3%82%BA%E3%82%A3%E3%82%A8%E3%83%89+%E3%82%BA%E3%82%A3%E3%83%92%E3%83%AA%E3%81%A8%E7%94%B3%E3%81%97%E3%81%BE%E3%81%99" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&center=true&vCenter=true&width=1000&height=70&duration=4000&color=F75C7E&&lines=Passionate+software+developer;Linux+enthusiast;Always+learning+new+things" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Anonymous+Pro&size=36&duration=2000&pause=1000&color=B4B4B4&center=true&width=600&height=100&lines=Mobile+Software+Engineer;Linux+%26+AI+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </h3>
 
 

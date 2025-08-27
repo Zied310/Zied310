@@ -22,7 +22,7 @@
 
 </br>
 
-<img align="right" alt="coding-gif" width="400" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
+<img align="right" alt="coding-gif" width="400" height="300" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
 
  <h3 align="left">💫 About Me 💫</h3>
 
@@ -33,6 +33,8 @@
 ⚡ Interest in AI/ML, Linux, DevOps.</br>
 ✨ Building applications that not only perform flawlessly but also resonate with users on a deeper level.</h4> <div align="left">
 
+<br/>
+<br/>
 <br/>
 
 <hr/>

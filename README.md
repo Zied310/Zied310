@@ -100,7 +100,6 @@
   <a href="https://www.instagram.com/mirai03102001/"><img height="80" width="80" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/ig-instagram-icon.png"></a>
 </div>
 <br/>
-<br/>
 <img align="center" alt="about-cropped" width="1600" height="600" src="https://github.com/Zied310/Zied310/blob/main/banner-cropped.gif">
 <br/>
 <br/>

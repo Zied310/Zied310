@@ -35,15 +35,15 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
 <h3>Mobile Development</h3>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" />
 <h3>Web Development</h3>
-<img src="https://skillicons.dev/icons?i=angular,html,css,javascript,typescript,bootstrap" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,html,css,javascript,typescript,bootstrap" />
 <h3>Backend Development & Databases</h3>
-<img src="https://skillicons.dev/icons?i=nestjs,firebase,mysql,mongodb,linux" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
 <h3>Version Control & CI/CD</h3>
-<img src="https://skillicons.dev/icons?i=git,github" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
 <h3>IDEs & Development Tools</h3>
-<img src="https://skillicons.dev/icons?i=vscode,idea,postman" /><br>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,postman" />
 
 <br/>
 <hr/>

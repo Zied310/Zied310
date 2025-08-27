@@ -43,20 +43,45 @@
 
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<h3>Mobile Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" />
-<h3>Web Development</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,html,css,javascript,typescript,bootstrap" />
-<h3>Backend Development & Databases</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
-<h3>Version Control</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
-<h3>Deployment</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,googleplayconsole" />
-<h3>Programming Languages</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,bash,c" />
-<h3>IDEs & Development Tools</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,neovim,postman" />
+<table border="1" bordercolor="#B4B4B4">
+  <tr>
+    <td>
+      <h3>Mobile Development</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,kotlin,jetpackcompose,androidstudio" />
+    </td>
+    <td>
+      <h3>Web Development</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=angular,html,css,javascript,typescript,bootstrap" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Backend Development & Databases</h3>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
+    </td>
+    <td>
+      <h3>Version Control</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Deployment</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=docker,googleplayconsole" />
+    </td>
+    <td>
+      <h3>Programming Languages</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,bash,c" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>IDEs & Development Tools</h3>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,neovim,postman" />
+    </td>
+  </tr>
+</table>
+
 
 <br/>
 

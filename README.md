@@ -44,7 +44,7 @@
 <h2 align="center">⚒️ Tech Stack ⚒️</h2>
 
 <img align="right" alt="about-cropped" width="300" height="650" src="https://github.com/Zied310/Zied310/blob/main/about-cropped.gif">
-z
+
 <table border="1" bordercolor="#B4B4B4" align="left">
   <tr>
     <td>

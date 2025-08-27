@@ -22,9 +22,6 @@
 <br/>
 
 <div align="center"> 
-  <a href="https://mailto:ziedzhiri@yahoo.fr">
-    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Yahoo%21&color=6001D2&logo=Yahoo%21&logoColor=FFFFFF&label="/>
-  </a>
   <a href="https://zied-zhiri-portfolio.vercel.app" target"_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
@@ -42,8 +39,12 @@
 <img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs,firebase,mysql,mongodb,linux" />
 <h3>Version Control</h3>
 <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github" />
+<h3>Deployment</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,googleplayconsole" />
+<h3>Programming Languages</h3>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,bash,c" />
 <h3>IDEs & Development Tools</h3>
-<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,postman" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,idea,neovim,postman" />
 
 <br/>
 <hr/>

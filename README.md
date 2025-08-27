@@ -80,7 +80,7 @@
     </td>
   </tr>
 </table><div align="left">
-<img align="center" alt="about-cropped" width="auto" height="50%" src="https://github.com/Zied310/Zied310/blob/main/about.gif">
+<img align="center" alt="about-cropped" width="auto" height="80%" src="https://github.com/Zied310/Zied310/blob/main/about-crop.gif">
 
 <br clear="all" />
  

@@ -23,7 +23,7 @@
 </br>
 <h2 align="center">💫 About Me 💫</h3>
 
-<img align="right" alt="coding-gif" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
+<img align="right" alt="coding-gif" width="200" height="200" src="https://github.com/Zied310/Zied310/blob/main/stack.gif">
 
 <div align="left">🌱 Currently completing my engineering degree, expected graduation in 2026</br>
 🔭 I worked on E-commerce, LegalTech and FinTech apps </br>

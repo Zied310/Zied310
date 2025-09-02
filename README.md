@@ -88,9 +88,6 @@
 <h2 align="center"> 🛡️ Badges 🛡️ </h2>
 
 [![An image of @zied310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zied310)](https://holopin.io/@zied310)
-<center>
-  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f594a87d-1899-4d8a-a803-409a95c82c95" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-</center>
 
 <br>
 <hr/>

@@ -89,8 +89,8 @@
 
 [![An image of @zied310's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zied310)](https://holopin.io/@zied310)
 <div align="center">
-  <a href="https://www.credly.com/badges/d431e1c9-5641-422e-a2a6-dfa65411e2aa/public_url"> <img alt="aws-badge1" width="240" height="200" src="https://github.com/Zied310/Zied310/blob/main/aws-badge1.png" /></a>
-  <a href="https://www.credly.com/badges/f594a87d-1899-4d8a-a803-409a95c82c95/public_url"> <img alt="lf-badge1" width="240" height="200" src="https://github.com/Zied310/Zied310/blob/main/lf-badge1.png" /></a>
+  <a href="https://www.credly.com/badges/d431e1c9-5641-422e-a2a6-dfa65411e2aa/public_url"> <img alt="aws-badge1" width="160" height="140" src="https://github.com/Zied310/Zied310/blob/main/aws-badge1.png" /></a>
+  <a href="https://www.credly.com/badges/f594a87d-1899-4d8a-a803-409a95c82c95/public_url"> <img alt="lf-badge1" width="160" height="140" src="https://github.com/Zied310/Zied310/blob/main/lf-badge1.png" /></a>
   
 </div>
 
